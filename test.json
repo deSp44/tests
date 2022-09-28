@@ -1,0 +1,86 @@
+[
+	{
+		"site": "euro",
+		"menu": [
+			{
+				"name": "AGD Duże",
+				"linkName": "agd-duze",
+				"leaves": [
+					{
+						"name": "Lodówki i zamrażarki",
+						"linkName": "lodowki-i-zamrazarki",
+						"leaves": [],
+						"image": null,
+						"numberOfItems": 0,
+						"description": null,
+						"seoTitle": null,
+						"seoDescription": null,
+						"header": "Lodówki i zamrażarki",
+						"canonical": ""
+					},
+					{
+						"name": "Pralki i suszarki",
+						"linkName": "pralki-i-suszarki",
+						"leaves": [
+							{
+								"name": "Pralki i suszarki",
+								"linkName": "pralki-i-suszarki",
+								"leaves": [],
+								"image": null,
+								"numberOfItems": 0,
+								"description": null,
+								"seoTitle": null,
+								"seoDescription": null,
+								"header": "Pralki i suszarki",
+								"canonical": ""
+							}
+						],
+						"image": null,
+						"numberOfItems": 1,
+						"description": null,
+						"seoTitle": null,
+						"seoDescription": null,
+						"header": "Pralki i suszarki",
+						"canonical": ""
+					}
+				],
+				"image": null,
+				"numberOfItems": 2,
+				"description": null,
+				"seoTitle": null,
+				"seoDescription": null,
+				"header": "AGD Duże",
+				"canonical": ""
+			},
+			{
+				"name": "AGD Małe",
+				"linkName": "agd-male",
+				"leaves": [],
+				"image": null,
+				"numberOfItems": 0,
+				"description": null,
+				"seoTitle": null,
+				"seoDescription": null,
+				"header": "AGD Małe",
+				"canonical": ""
+			}
+		]
+	},
+	{
+		"site": "ole",
+		"menu": [
+			{
+				"name": "Test",
+				"linkName": "test",
+				"leaves": [],
+				"image": null,
+				"numberOfItems": 0,
+				"description": null,
+				"seoTitle": null,
+				"seoDescription": null,
+				"header": "Test",
+				"canonical": ""
+			}
+		]
+	}
+]
