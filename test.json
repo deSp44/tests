@@ -3,10 +3,12 @@
 		"site": "euro",
 		"menu": [
 			{
+				"id": "agd-duze-1",
 				"name": "AGD Duże",
 				"linkName": "agd-duze",
 				"leaves": [
 					{
+						"id": "lodowki-i-zamrazarki-1",
 						"name": "Lodówki i zamrażarki",
 						"linkName": "lodowki-i-zamrazarki",
 						"leaves": [],
@@ -19,10 +21,12 @@
 						"canonical": ""
 					},
 					{
+						"id": "pralki-i-suszarki-1",
 						"name": "Pralki i suszarki",
 						"linkName": "pralki-i-suszarki",
 						"leaves": [
 							{
+								"id": "pralki-i-suszarki-2",
 								"name": "Pralki i suszarki",
 								"linkName": "pralki-i-suszarki",
 								"leaves": [],
@@ -53,6 +57,7 @@
 				"canonical": ""
 			},
 			{
+				"id": "agd-male-1",
 				"name": "AGD Małe",
 				"linkName": "agd-male",
 				"leaves": [],
@@ -70,6 +75,7 @@
 		"site": "ole",
 		"menu": [
 			{
+				"id": "test-1",
 				"name": "Test",
 				"linkName": "test",
 				"leaves": [],
