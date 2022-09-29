@@ -437,7 +437,7 @@
 	},
 	{
 		"site": "ole",
-		"menu": [
+		"leaves": [
 			{
 				"id": "test-1",
 				"name": "Test",
