@@ -1,0 +1,50 @@
+[
+	{
+		"plu": "1321312",
+		"labels": [],
+		"opinionsSummary": {
+			"averageGrade": 5,
+			"opinionsNumber": 5420
+		},
+		"activeProductDetails": {
+			"prices": {
+				"mainPrice": 124.79,
+				"promotionalPrice": null,
+				"voucherDiscountedPrice": null,
+				"lowestPrice": {
+					"price": null,
+					"show": false
+				}
+			},
+			"splitPayment": false,
+			"productAdvertisingPlacements": [],
+			"voucherDetails": null,
+			"deliveryAvailability": {
+				"shopDeliveryAvailability": {
+					"code": "AS_SOON_AS_POSSIBLE",
+					"deliveryDate": null
+				},
+				"homeDeliveryAvailability": {
+					"code": "SAMEDAY",
+					"deliveryDate": null
+				},
+				"commonDeliveryAvailability": null,
+				"reserveAndCollectAvailable": false
+			},
+			"deliveryPriceMessage": "Darmowy transport",
+			"instalment": {
+				"code": "20x0odr8M",
+				"instalmentPrice": 624.95,
+				"numberOfInstalments": 20,
+				"loanInterest": 0,
+				"label": "",
+				"hasPromotionDetails": true,
+				"shortPromotionDescription": "Do września nie płacisz!",
+				"rrso": 0,
+				"usingDiscountedPrice": false
+			},
+			"freeDeliveryDate": "2022-12-23",
+			"presentationBox": null
+		}
+	}
+]
