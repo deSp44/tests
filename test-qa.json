@@ -1,7 +1,18 @@
 [
 	{
 		"plu": "1321312",
-		"labels": [],
+		"labels": [
+			{
+				"name": "PROMOTION",
+				"color": null,
+				"backgroundColor": null
+			},
+			{
+				"name": "BESTSELLER",
+				"color": null,
+				"backgroundColor": null
+			}
+		],
 		"opinionsSummary": {
 			"averageGrade": 5,
 			"opinionsNumber": 5420
