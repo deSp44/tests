@@ -1,0 +1,34 @@
+[
+	{
+		"price": "$16.99",
+		"name": "Founders All Day IPA",
+		"rating": {
+			"average": 4.411243509154233,
+			"reviews": 453
+		},
+		"image": "https://www.totalwine.com/media/sys_master/twmmedia/h00/h94/11891416367134.png",
+		"id": 1,
+		"listOfObj": [],
+		"listOfStr": [
+			"test",
+			"dwa"
+		]
+	},
+	{
+		"price": "$13.99",
+		"name": "Blue Moon Belgian White Belgian-Style Wheat Ale",
+		"rating": {
+			"average": 4.775260833383482,
+			"reviews": 305
+		},
+		"image": "https://www.totalwine.com/media/sys_master/twmmedia/he8/h67/11931543830558.png",
+		"id": 2,
+		"listOfObj": [
+			{
+				"super": "turd",
+				"extra": null
+			}
+		],
+		"listOfStr": [],
+	}
+]
